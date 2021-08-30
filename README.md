@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>E aí! Eu sou o Paulo Cesar</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>E aí! Eu sou o Paulo Cesar</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -7,7 +7,7 @@
 💡 &nbsp;Sou desenvolvedor UI & UX, especialista em projetos de desenvolvimento e experiência de interfaces digitais.\
 🎓 &nbsp;Tenho Bacharelado em Sistemas de Informação pela UNISUL.\
 📖 &nbsp;Procuro sempre me atualizar sobre novos assuntos da tecnologia front-end e design.\
-🎮 &nbsp;No meu tempo livre jogo videogame e gosto de me aventurar no universo geek.\
+🎮 &nbsp;No meu tempo livre jogo videogame e gosto de me aventurar no universo geek.
 
 <img alt="Go Horse" src="https://c.tenor.com/Ev_Zlnn-niMAAAAC/horse-developer.gif" align="right"/>
 

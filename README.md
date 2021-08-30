@@ -6,10 +6,10 @@
 
 💡 &nbsp;Sou desenvolvedor UI & UX, especialista em projetos de desenvolvimento e experiência de interfaces digitais.\
 🎓 &nbsp;Tenho Bacharelado em Sistemas de Informação pela UNISUL.\
-🌱 &nbsp;Procuro sempre me atualizar sobre novos assuntos da tecnologia front-end e design.\
-✍️ &nbsp;No meu tempo livre jogo videogame e gosto de me aventurar no universo geek.\
+📖 &nbsp;Procuro sempre me atualizar sobre novos assuntos da tecnologia front-end e design.\
+🎮 &nbsp;No meu tempo livre jogo videogame e gosto de me aventurar no universo geek.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Go Horse" src="https://c.tenor.com/Ev_Zlnn-niMAAAAC/horse-developer.gif" align="right"/>
 
 ### 🛠 &nbsp;Minhas habilidades
 

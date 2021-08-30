@@ -41,6 +41,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-cesar-prado-jr/"><img src="https://img.shields.io/badge/-Paulo%20Cesar%20Jr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paulocesarrosajr@gmail.com"><img src="https://img.shields.io/badge/-paulocesarrosajr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/tainhaplay"><img src="https://img.shields.io/badge/-@paulinhopradojr-1c9bef?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/paulinhopradojr/"><img src="https://img.shields.io/badge/-@paulinhopradojr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-tainhaplay-0070d1?style=flat&logo=Playstation&logoColor=white"/></a>
 <a href="https://facebook.com/paulocesar.prado.56"><img src="https://img.shields.io/badge/-@paulocesar.prado.56-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>

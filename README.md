@@ -38,7 +38,7 @@
 
 ### 🤝🏻 &nbsp;Fale comigo
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/paulo-cesar-prado-jr/"><img src="https://img.shields.io/badge/-Paulo%20Cesar%20Jr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paulocesarrosajr@gmail.com"><img src="https://img.shields.io/badge/-paulocesarrosajr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/paulinhopradojr/"><img src="https://img.shields.io/badge/-@paulinhopradojr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

@@ -2,7 +2,8 @@
 
 🇧🇷 &nbsp; I'm from Florianópolis, Brazil\
 👨🏻‍💻 &nbsp; Currently working at [Globo](https://github.com/globocom)\
-🎮 &nbsp; Games and comics are my passion
+🎮 &nbsp; Games and comics are my passion\
+✏️ &nbsp; Visit my blog [paulinhoprado.dev](http://paulinhoprado.dev/)
 
 <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif">
 
@@ -12,5 +13,5 @@
 
 ### 📚 &nbsp;Articles
 
-- [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
+- [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://paulinhoprado.dev/artigos/teste-ab-em-larga-escala/)
 

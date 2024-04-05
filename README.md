@@ -13,5 +13,6 @@
 
 ### 📚 &nbsp;Articles
 
+- [Descomplicando a busca binária](https://paulinhoprado.dev/artigos/descomplicando-a-busca-binaria/)
 - [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://paulinhoprado.dev/artigos/teste-ab-em-larga-escala/)
 

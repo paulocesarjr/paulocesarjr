@@ -13,6 +13,7 @@
 
 ### 📚 &nbsp;Articles
 
+- [Testes end-to-end e sua real utilidade](https://paulinhoprado.dev/artigos/testes-end-to-end-e-sua-real-utilidade/)
 - [Descomplicando a busca binária](https://paulinhoprado.dev/artigos/descomplicando-a-busca-binaria/)
 - [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://paulinhoprado.dev/artigos/teste-ab-em-larga-escala/)
 

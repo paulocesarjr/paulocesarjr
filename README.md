@@ -13,6 +13,7 @@
 
 ### 📚 &nbsp;Articles
 
+- [Micro-frontends na prática](https://paulinhoprado.dev/artigos/micro-frontends-na-pratica/)
 - [Como funciona um Player de Vídeo? Uma abordagem em JavaScript](https://paulinhoprado.dev/artigos/como-funciona-um-player-de-video-uma-abordagem-js/)
 - [Criando aplicações em tempo real com SSE (Server-Sent Events)](https://paulinhoprado.dev/artigos/criando-aplicacoes-em-tempo-real-com-sse/)
 - [O que eu entendo sobre Clean Code?](https://paulinhoprado.dev/artigos/o-que-eu-entendo-sobre-clean-code/)
